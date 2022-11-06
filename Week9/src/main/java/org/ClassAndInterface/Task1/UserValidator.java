@@ -2,7 +2,6 @@ package org.ClassAndInterface.Task1;
 
 public class UserValidator {
     public String[] validateEmails(String email, String alternativeEmail) {
-        //Class represents email address
         class Email {
             private String email;
 
